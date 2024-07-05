@@ -1,3 +1,3 @@
 def str_capitalize(word):
-    """делает все буквы строки большими"""
+    """makes all the letters of the string large"""
     return word.upper()
