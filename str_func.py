@@ -1,5 +1,5 @@
 def str_capitalize(word):
-    """изменения от 14"""
+    """изменения от tshyjfukio07"""
     return word.upper()
 
 def str_titl(word):
